@@ -1,9 +1,5 @@
-# HTML Portfolio – Muhammed Diab Ghanim
+# CV Project
 
-This is a simple HTML-only portfolio project that showcases my frontend projects, experience, and education. No CSS or JavaScript is used.
+This is the HTML CV project for **Muhammed Diab Ghanim** from Roadmap.sh.
 
-## 🔧 How to Run This Project
-
-1. Download or clone the repository:
-```bash
-git clone https://github.com/mdiabgha777/html-portfolio
+🔗 [View Live Project](https://roadmap.sh/projects/single-page-cv)
